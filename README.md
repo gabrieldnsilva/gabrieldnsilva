@@ -8,7 +8,7 @@ DevOps que contemplam ambientes em nuvem como AWS e Azure.
 Comprometido com a entrega de soluções de qualidade e alinhado com as
 práticas ágeis de desenvolvimento.
 Atualmente graduando em ADS pela Fatec Mogi Mirim, 
-Espero contribuir com a comnidade e construir uma carreira sólida.
+Espero contribuir com a comunidade e construir uma carreira sólida.
 
 Em constante aprendizado.
 
