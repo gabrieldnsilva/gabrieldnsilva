@@ -17,12 +17,12 @@ Aqui estão alguns projetos que desenvolvi para praticar e demonstrar minhas hab
 #### 1. [MuniTour]
 <p>Plataforma interativa de turismo inteligente, criada para transformar a experiência de turistas e moradores ao explorar a cidade.</p>
 <p><strong>Tecnologias:</strong> HTML, CSS, Javascript.</p>
-<a href="[[Munitour](https://github.com/gabrieldnsilva/MuniTour-ESII)]" target="_blank"><strong>Ver Repositório ➔</strong></a>
+<a href="https://github.com/gabrieldnsilva/MuniTour-ESII" target="_blank"><strong>Ver Repositório ➔</strong></a>
 
 #### 2. [reactMovies]
 <p>Landpage de vitrine de filmes, utilizando a API TMDB para consumo e agregação de dados, rápida e intuitiva em seus usos.</p>
 <p><strong>Tecnologias:</strong> Node.js, Vite, React, TailwindCSS, API.</p>
-<a href="[https://github.com/gabrieldnsilva/reactMovies]" target="_blank"><strong>Ver Repositório ➔</strong></a>
+<a href="https://github.com/gabrieldnsilva/reactMovies" target="_blank"><strong>Ver Repositório ➔</strong></a>
 
 ## 🌐 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-danilo-do-nascimento-e-silva-97a742162/)
