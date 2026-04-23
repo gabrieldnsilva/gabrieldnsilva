@@ -1,16 +1,16 @@
-# Gabriel Danilo 🚀
-### Full Stack Engineer | Java, Node.js & Python | Cloud Enthusiast
+# Gabriel Danilo
+### Full Stack Engineer | Java, Node.js, Typescript & Python | Cloud Pratictioner | Problem Solver with Tech |
 
-Olá! 👋 Sou um desenvolvedor apaixonado por transformar requisitos complexos em sistemas escaláveis e bem documentados. Com mais de 5 anos de experiência no ecossistema de TI corporativo, atuo na intersecção entre **Software Engineering** e **IT Infrastructure**.
+Olá! Sou um desenvolvedor apaixonado por transformar requisitos complexos em sistemas escaláveis e bem documentados. Com mais de 5 anos de experiência no ecossistema de TI corporativo, atuo na intersecção entre **Software Engineering** e **IT Infrastructure**.
 
 **Impacto Real no Mercado:**
-- 🏦 **Ranking Pix:** Desenvolvi uma aplicação full-stack utilizada por mais de **50 filiais** para processamento e análise de performance da operação da Frente de Caixa.
-- ⚡ **Eficiência Operacional:** Automatizei processos internos que geraram um aumento de **25% na produtividade** setorial e redução de **40% em backlogs** de TI.
-- 🏗️ **Arquitetura & Clean Code:** Focado em SOLID, Clean Architecture e modelagem de sistemas robustos.
+- **Ranking Pix:** Desenvolvi uma aplicação full-stack utilizada por mais de **50 filiais** para processamento e análise de performance da operação da Frente de Caixa.
+- **Eficiência Operacional:** Automatizei processos internos que geraram um aumento de **25% na produtividade** setorial e redução de **40% em backlogs** de TI.
+- **Arquitetura & Clean Code:** Focado em SOLID, Clean Architecture e modelagem de sistemas robustos.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 | Categoria | Tecnologias |
 | :--- | :--- |
@@ -21,21 +21,21 @@ Olá! 👋 Sou um desenvolvedor apaixonado por transformar requisitos complexos 
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
-### 🏎️ [LinkAuto]([https://github.com/gabrieldnsilva/linkauto](https://github.com/KaiqueCarvalho01/LinkAuto-APP))
+### [LinkAuto](https://github.com/KaiqueCarvalho01/LinkAuto-APP)
 **Plataforma Full-Stack para Instrutores de Trânsito**
 - **Destaque:** Implementação de sistema de agendamento (Booking) com **Role-Based Access Control (RBAC)** e autenticação segura via JWT/Cookies.
 - **Stack:** React 19, FastAPI, SQLAlchemy, AWS S3/SES.
 - **Engenharia:** Cobertura de testes e2e com Playwright e arquitetura orientada a serviços.
 
-### 🍱 [foodTraceability](private)
+### [foodTraceability]
 **Sistema de Rastreabilidade e Auditoria Alimentar**
 - **Destaque:** Foco extremo em **Arquitetura de Software**. Inclui documentação completa em PlantUML (ERD, State, Sequence e Use Case diagrams).
 - **Stack:** NestJS, Angular, MongoDB, PostgreSQL, Docker, AWS, CI/CD Pipelines with Github Actions.
 - **Engenharia:** Uso de UUIDv7 para performance de índices e logs de auditoria imutáveis.
 
-### 📊 [Ranking Pix]
+### [Ranking Pix](https://github.com/gabrieldnsilva/pixRanking-v2)
 **Aplicação Corporativa de Análise Financeira (Atacadão S.A)**
 - **Impacto:** Sistema real em produção escalado para todo o Brasil.
 - **Stack:** PHP, Vanilla JS, MySQL (MariaDB), processamento de arquivos em batch (.csv, principalmente) .
@@ -51,7 +51,7 @@ Olá! 👋 Sou um desenvolvedor apaixonado por transformar requisitos complexos 
 ---
 
 ## 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-danilo-do-nascimento-e-silva-97a742162/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieldanilo)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrieldnsilva@gmail.com)
 
 "Clean code always looks like it was written by someone who cares." — Robert C. Martin
