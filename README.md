@@ -1,56 +1,57 @@
-# Gabriel Danilo do Nascimento e Silva
-### Desenvolvedor de Software | Backend & Infraestrutura
+# Gabriel Danilo 🚀
+### Full Stack Engineer | Java, Node.js & Python | Cloud Enthusiast
 
-Olá! 👋 Sou Gabriel, um Desenvolvedor de Software apaixonado por criar soluções que resolvem problemas reais.
+Olá! 👋 Sou um desenvolvedor apaixonado por transformar requisitos complexos em sistemas escaláveis e bem documentados. Com mais de 5 anos de experiência no ecossistema de TI corporativo, atuo na intersecção entre **Software Engineering** e **IT Infrastructure**.
 
-Com mais de 4 anos de experiência como profissional de TI, trago uma perspectiva única para o desenvolvimento, focando em criar sistemas que não são apenas funcionais, mas também robustos, seguros e eficientes. No meu trabalho, já utilizei programação para:
+**Impacto Real no Mercado:**
+- 🏦 **Ranking Pix:** Desenvolvi uma aplicação full-stack utilizada por mais de **50 filiais** para processamento e análise de performance da operação da Frente de Caixa.
+- ⚡ **Eficiência Operacional:** Automatizei processos internos que geraram um aumento de **25% na produtividade** setorial e redução de **40% em backlogs** de TI.
+- 🏗️ **Arquitetura & Clean Code:** Focado em SOLID, Clean Architecture e modelagem de sistemas robustos.
 
--   🚀 **Aumentar a eficiência** de setores em através da automação de processos.
--   📉 **Reduzir as pendências** da área de TI com a otimização da gestão de serviços.
+---
 
-Atualmente cursando **Análise e Desenvolvimento de Sistemas na FATEC**, estou sempre aprofundando meus conhecimentos em desenvolvimento Backend com **Java (Spring)**, **Node.js** e ecossistemas Cloud como **AWS** e **Azure**.
+## 🛠️ Tech Stack & Tools
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Backend** | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
+| **DevOps/Cloud** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) |
+
+---
 
 ## 🚀 Projetos em Destaque
 
-Aqui estão alguns projetos que desenvolvi para praticar e demonstrar minhas habilidades. Convido você a explorar o código e a documentação!
+### 🏎️ [LinkAuto]([https://github.com/gabrieldnsilva/linkauto](https://github.com/KaiqueCarvalho01/LinkAuto-APP))
+**Plataforma Full-Stack para Instrutores de Trânsito**
+- **Destaque:** Implementação de sistema de agendamento (Booking) com **Role-Based Access Control (RBAC)** e autenticação segura via JWT/Cookies.
+- **Stack:** React 19, FastAPI, SQLAlchemy, AWS S3/SES.
+- **Engenharia:** Cobertura de testes e2e com Playwright e arquitetura orientada a serviços.
 
-#### 1. [MuniTour]
-<p>Plataforma interativa de turismo inteligente, criada para transformar a experiência de turistas e moradores ao explorar a cidade.</p>
-<p><strong>Tecnologias:</strong> HTML, CSS, Javascript.</p>
-<a href="https://github.com/gabrieldnsilva/MuniTour-ESII" target="_blank"><strong>Ver Repositório ➔</strong></a>
+### 🍱 [foodTraceability](private)
+**Sistema de Rastreabilidade e Auditoria Alimentar**
+- **Destaque:** Foco extremo em **Arquitetura de Software**. Inclui documentação completa em PlantUML (ERD, State, Sequence e Use Case diagrams).
+- **Stack:** NestJS, Angular, MongoDB, PostgreSQL, Docker, AWS, CI/CD Pipelines with Github Actions.
+- **Engenharia:** Uso de UUIDv7 para performance de índices e logs de auditoria imutáveis.
 
-#### 2. [reactMovies]
-<p>Landpage de vitrine de filmes, utilizando a API TMDB para consumo e agregação de dados, rápida e intuitiva em seus usos.</p>
-<p><strong>Tecnologias:</strong> Node.js, Vite, React, TailwindCSS, API.</p>
-<a href="https://github.com/gabrieldnsilva/reactMovies" target="_blank"><strong>Ver Repositório ➔</strong></a>
+### 📊 [Ranking Pix]
+**Aplicação Corporativa de Análise Financeira (Atacadão S.A)**
+- **Impacto:** Sistema real em produção escalado para todo o Brasil.
+- **Stack:** PHP, Vanilla JS, MySQL (MariaDB), processamento de arquivos em batch (.csv, principalmente) .
+
+---
+
+## 📊 My GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieldnsilva&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldnsilva&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+</p>
+
+---
 
 ## 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-danilo-do-nascimento-e-silva-97a742162/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrieldnsilva)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-danilo-do-nascimento-e-silva-97a742162/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrieldnsilva@gmail.com)
 
-## 💻 Tecnologias e Ferramentas
-
-#### FrontEnd
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### Backend
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-#### Frameworks
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-#### Banco de Dados & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-## Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrieldnsilva&theme=vision-friendly-dark&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF0000&title_color=FF0000&text_color=FFF)
+"Clean code always looks like it was written by someone who cares." — Robert C. Martin
